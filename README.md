@@ -1,6 +1,6 @@
 ### Hi there, I'm Theo Ferguson 👋
 
-Other:
+Freelance work:
 https://gitlab.com/theoferguson
 
 <!--
