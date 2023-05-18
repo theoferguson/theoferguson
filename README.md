@@ -1,6 +1,6 @@
 ### Hi there, I'm Theo Ferguson 👋
 
-Recent freelance work:
+Recent freelance work (private repo):
 https://gitlab.com/theoferguson
 
 <!--
