@@ -3,6 +3,13 @@
 Recent freelance work (private repo):
 https://gitlab.com/theoferguson
 
+Schedule a meeting!:
+https://cal.com/theoferguson
+
+Contact:
+ferguson.theo@gmail.com
+https://www.linkedin.com/in/theo-ferguson/
+
 <!--
 **theoferguson/theoferguson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
