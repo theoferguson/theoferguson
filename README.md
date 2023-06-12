@@ -7,7 +7,7 @@ Schedule a meeting!:
 https://cal.com/theoferguson
 
 Contact:
-ferguson.theo@gmail.com /n
+ferguson.theo@gmail.com  
 https://www.linkedin.com/in/theo-ferguson/
 
 <!--
