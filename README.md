@@ -1,10 +1,10 @@
 ### Hi there, I'm Theo Ferguson 👋  
 
-Recent freelance work (private repo):  
-https://gitlab.com/theoferguson
-
 Schedule a meeting!:  
 https://cal.com/theoferguson
+
+Some freelance work (private repo):  
+https://gitlab.com/theoferguson
 
 Contact:
 ferguson.theo@gmail.com  
